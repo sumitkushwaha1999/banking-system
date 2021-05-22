@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/deposit/DepositAmount.fxml</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/dashboard/MainScreenController.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/dashboard/DashboardController.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/withdraw/WithdrawAmount.fxml</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/deposit/DepositAmountController.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/createaccount/CreateAccountController.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/login/LoginScreenController.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/design/design.css</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/changepin/ChangePIN.fxml</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/login/Banking.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/changepin/ChangePINController.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/accountinfo/AccountInformation.fxml</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/login/LoginScreen.fxml</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/withdraw/WithdrawAmountController.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/accountinfo/AccountInformationController.java</file>
+            <file>file:/C:/Users/Hp/Documents/NetBeansProjects/Banking/src/dashboard/MainScreen.fxml</file>
+        </group>
+    </open-files>
+</project-private>

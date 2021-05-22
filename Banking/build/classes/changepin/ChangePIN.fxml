@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<ScrollPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="changepin.ChangePINController">
+   <content>
+      <AnchorPane id="AnchorPane" prefHeight="627.0" prefWidth="1500.0">
+         <children>
+            <Pane layoutX="392.0" prefHeight="627.0" prefWidth="725.0">
+               <children>
+                  <Label layoutX="218.0" layoutY="40.0" text="Change PIN" textFill="#726d6d">
+                     <font>
+                        <Font name="Impact" size="53.0" />
+                     </font>
+                  </Label>
+                  <JFXPasswordField fx:id="confirmpin" layoutX="119.0" layoutY="369.0" prefHeight="21.0" prefWidth="468.0" promptText="Re-Enter New PIN">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </JFXPasswordField>
+                  <Button layoutX="257.0" layoutY="520.0" mnemonicParsing="false" onMouseClicked="#changePIN" prefHeight="56.0" prefWidth="224.0" styleClass="login-button" stylesheets="@../design/design.css" text=" Change PIN">
+                     <font>
+                        <Font size="25.0" />
+                     </font>
+                     <graphic>
+                        <FontAwesomeIconView glyphName="EYE" size="20" styleClass="login-icon" />
+                     </graphic>
+                  </Button>
+                  <JFXPasswordField fx:id="newpin" layoutX="119.0" layoutY="288.0" prefHeight="21.0" prefWidth="468.0" promptText="Enter New PIN">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </JFXPasswordField>
+                  <JFXPasswordField fx:id="oldpin" focusColor="#40569a" layoutX="119.0" layoutY="207.0" prefHeight="21.0" prefWidth="468.0" promptText="Enter existing PIN" unFocusColor="#615f5f">
+                     <font>
+                        <Font size="24.0" />
+                     </font>
+                  </JFXPasswordField>
+               </children>
+            </Pane>
+         </children>
+      </AnchorPane>
+   </content>
+</ScrollPane>
